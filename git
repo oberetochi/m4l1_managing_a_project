@@ -1,0 +1,22 @@
+diff --git a/class.txt b/class.txt
+index cecdfef..e1ad458 100644
+--- a/class.txt
++++ b/class.txt
+@@ -1,13 +1,13 @@
+ Crimson
+ Orange
+-Green
++Blue
+ Cyan
+ Yellow
+-Ivory
++Charcoal
+ Khaki
+ Coral
+ Silver
+ Fuchsia
+-Gray
++Purple
+ Brown
+ Red
+\ No newline at end of file
